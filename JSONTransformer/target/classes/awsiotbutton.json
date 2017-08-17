@@ -1,0 +1,9 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "clickType": "pushbutton.properties.clickType",
+      "batteryVoltage": "voltage.properties.batteryVoltage"
+    }
+  }
+]
